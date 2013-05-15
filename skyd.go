@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./skyd"
+	"github.com/skydb/sky/skyd"
 	"flag"
 	"fmt"
 	"io/ioutil"
